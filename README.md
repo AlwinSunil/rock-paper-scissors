@@ -1,4 +1,4 @@
-# Rock Paper Scissors Boilerplate
+# Rock Paper Scissors
 
 This is a repository of game development lab, where students learn to build a Rock Paper Scissors game using HTML, CSS & JS.
 
